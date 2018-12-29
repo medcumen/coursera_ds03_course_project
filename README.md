@@ -1,10 +1,15 @@
 # coursera_ds03_course_project
 Getting and Cleaning Data Course Project --- CLW
 
-# Overview
+## Overview
 This project downloads the UCI HAR dataset and reformats it into a tidy dataset.
 
-# Main Script
+## Tools Used
+- OS-X (Apple Macbook Air)
+- R v3.5.1
+- RStudio v1.1.463
+
+## Main Script
 The script 'run_analysis.R' performs the following:
 
 1. Checks to see if the dataset exists in the ./data directory. If not, the data file is downloaded and unzipped.
