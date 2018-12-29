@@ -1,4 +1,4 @@
-# coursera_ds03_course_project
+# Getting and Cleaning Data Course Project
 Getting and Cleaning Data Course Project --- CLW
 
 ## Overview
