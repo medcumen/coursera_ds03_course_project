@@ -2,7 +2,7 @@
 Getting and Cleaning Data Course Project --- CLW
 
 # Overview
-This project performs downloads the UCI HAR dataset and reformats it into a tidy dataset.
+This project downloads the UCI HAR dataset and reformats it into a tidy dataset.
 
 # Main Script
 The script 'run_analysis.R' performs the following:
